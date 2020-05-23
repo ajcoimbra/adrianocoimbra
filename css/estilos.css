@@ -1,0 +1,36 @@
+body {
+    background: LightGray;
+  }
+  
+  h1 {
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    text-align: center;
+    font-style: italic;
+  }
